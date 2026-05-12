@@ -37,6 +37,7 @@ Follow Jon Meyers on [Twitter](https://twitter.com/jonmeyers_io) and subscribe t
 
 ## 🗺 Table of Contents
 
+
 1.  [Start a new Supabase project](/01-start-a-new-supabase-project/README.md)
 2.  [Create a Next.js app with the create-next-app CLI](/02-create-a-next.js-app-with-the-create-next-app-cli/README.md)
 3.  [Query Supabase data from Next.js Server Components](/03-query-supabase-data-from-next.js-server-components/README.md)
